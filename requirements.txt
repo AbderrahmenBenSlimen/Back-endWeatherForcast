@@ -1,0 +1,6 @@
+geopandas
+mapclassify
+statsmodels
+scipy
+itertools
+seaborn
